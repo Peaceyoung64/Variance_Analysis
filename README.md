@@ -213,5 +213,5 @@ This project demonstrates how Power BI can be used to transform raw sales data i
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-linkedin
+- LinkedIn: [www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nnadika-nnetachukwu-peace-385918396/)
 - GitHub: www.github.com/your-github
